@@ -1,0 +1,12 @@
+node_modules
+build
+build.zip
+.vscode
+.DS_Store
+*.log
+.angular
+.git
+.vs
+dist
+yarn.lock
+
